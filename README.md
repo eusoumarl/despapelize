@@ -1,78 +1,24 @@
-# Despapelize
+# Despapelize — Site v2
 
-Transforme sua papelada em eficiência digital.
+Substitua os arquivos do repositório atual pelos arquivos desta pasta.
 
-## 📌 Sobre
+Arquivos:
+- index.html
+- style.css
+- script.js
+- privacidade.html
 
-O **Despapelize** é uma plataforma voltada à transformação digital de
-processos administrativos, ajudando empresas a substituírem documentos
-físicos por soluções digitais inteligentes. Nosso objetivo é reduzir
-custos, aumentar a produtividade e garantir mais segurança e organização
-para o seu negócio.
+## Publicação
+1. Faça backup dos arquivos atuais do repositório.
+2. Envie os quatro arquivos para a raiz do repositório GitHub Pages.
+3. Faça commit das alterações.
+4. Aguarde o deploy e teste no celular e computador.
 
-🔗 **Acesse:** https://eusoumarl.github.io/despapelize/
+## Antes de divulgar
+- O botão de WhatsApp preserva o número que já estava publicado no site atual.
+- Confirme que esse número continua sendo o canal comercial correto.
+- Revise o aviso de privacidade e a identificação institucional.
+- Confirme disponibilidade e titularidade do nome/domínio/marca.
+- Não anuncie serviços fora do escopo operacional validado.
 
-------------------------------------------------------------------------
-
-## 🚀 O que fazemos
-
-Oferecemos soluções completas para digitalização e automação de
-processos, incluindo:
-
--   Digitalização de documentos\
--   Organização e gestão digital de arquivos\
--   Automação de fluxos administrativos\
--   Consultoria em transformação digital\
--   Diagnóstico gratuito de processos
-
-------------------------------------------------------------------------
-
-## 🎯 Para quem é
-
--   Escritórios jurídicos\
--   Clínicas e consultórios\
--   Empresas de RH\
--   Setores administrativos e financeiros\
--   Pequenas, médias e grandes empresas
-
-------------------------------------------------------------------------
-
-## 💡 Benefícios
-
--   Eliminação do uso excessivo de papel\
--   Redução de custos operacionais\
--   Aumento da produtividade\
--   Mais segurança e controle das informações\
--   Processos mais rápidos e eficientes\
--   Conformidade com a LGPD
-
-------------------------------------------------------------------------
-
-## 🧭 Nosso método
-
-1.  Diagnóstico gratuito\
-2.  Mapeamento dos processos\
-3.  Planejamento da digitalização\
-4.  Implementação da solução\
-5.  Treinamento e suporte
-
-------------------------------------------------------------------------
-
-## 📞 Contato
-
-Entre em contato e solicite um diagnóstico gratuito:
-
-👉 https://eusoumarl.github.io/despapelize/
-
-------------------------------------------------------------------------
-
-## 🔒 Código-fonte
-
-O código-fonte deste projeto **não é público** e está disponível apenas
-para fins internos.
-
-------------------------------------------------------------------------
-
-## 📄 Licença
-
-© 2025 Despapelize --- Todos os direitos reservados.
+O site não possui formulário nem banco de dados. Os botões direcionam ao WhatsApp.
